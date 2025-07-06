@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b090bc5294b1de1a8bca66e9fedc779a",
+    "revision": "fe4e8c763530edcd8e245edaf41fa317",
     "url": "/EDCC_Project/index.html"
   },
   {
-    "revision": "954a5e2f389222879b71",
+    "revision": "95095ac7fd4e826a4c0a",
     "url": "/EDCC_Project/static/css/2.ceaa005a.chunk.css"
   },
   {
-    "revision": "c63c27974ef27c7eb1ea",
-    "url": "/EDCC_Project/static/css/main.fbe755c0.chunk.css"
+    "revision": "f90895bf5ca67caf3aac",
+    "url": "/EDCC_Project/static/css/main.00cc7c17.chunk.css"
   },
   {
-    "revision": "954a5e2f389222879b71",
-    "url": "/EDCC_Project/static/js/2.3a9788e1.chunk.js"
+    "revision": "95095ac7fd4e826a4c0a",
+    "url": "/EDCC_Project/static/js/2.f1346fca.chunk.js"
   },
   {
     "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/EDCC_Project/static/js/2.3a9788e1.chunk.js.LICENSE.txt"
+    "url": "/EDCC_Project/static/js/2.f1346fca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c63c27974ef27c7eb1ea",
-    "url": "/EDCC_Project/static/js/main.62388f6e.chunk.js"
+    "revision": "f90895bf5ca67caf3aac",
+    "url": "/EDCC_Project/static/js/main.f58a4d45.chunk.js"
   },
   {
     "revision": "e9bef3b785aaf3156985",
